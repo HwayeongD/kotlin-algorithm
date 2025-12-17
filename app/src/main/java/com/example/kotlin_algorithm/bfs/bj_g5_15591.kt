@@ -1,4 +1,4 @@
-package com.example.kotlin_algorithm
+package com.example.kotlin_algorithm.bfs
 
 import java.util.Scanner
 
